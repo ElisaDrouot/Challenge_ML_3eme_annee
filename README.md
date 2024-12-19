@@ -9,3 +9,7 @@ On importe les images nécessaires pour l'entraînement et la validation, puis l
 ## Partie 2
 
 On évalue notre modèle en vérifiant qu'il ai trouvé la bonne catégorie pour 30 images prises au hasard
+
+## Contributeurs 
+- **Asma EL HAFIANE**
+- **Elisa DROUOT**
